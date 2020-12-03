@@ -1,0 +1,48 @@
+36(C2) Kick BottlePoppin 1
+37(C#2) Kick BottlePoppin 2
+38(D2) Snare BottlePoppin 1
+39(D#2) Clap BottlePoppin 1
+40(E2) Snare BottlePoppin 2
+41(F2) Tom BottlePoppin 1
+42(F#2) Shaker BottlePoppin 1
+43(G2) Tom BottlePoppin 2
+44(G#2) ClosedHH BottlePoppin 1
+45(A2) Zap BottlePoppin
+46(A#2) OpenHH BottlePoppin 1
+47(B2) Crash BottlePoppin 1
+48(C3) Kick BottlePoppin 3
+49(C#3) Kick BottlePoppin 4
+50(D3) Snare BottlePoppin 3
+51(D#3) Clap BottlePoppin 2
+52(E3) Snare BottlePoppin 4
+53(F3) Tom BottlePoppin 3
+54(F#3) Shaker BottlePoppin 2
+55(G3) Tom BottlePoppin 4
+56(G#3) ClosedHH BottlePoppin 2
+57(A3) Noise BottlePoppin
+58(A#3) OpenHH BottlePoppin 2
+59(B3) Crash BottlePoppin 2
+60(C4) Kick BottlePoppin 5
+61(C#4) Kick BottlePoppin 6
+62(D4) Snare BottlePoppin 5
+63(D#4) Clap BottlePoppin 3
+64(E4) Snare BottlePoppin 6
+65(F4) Tom BottlePoppin 5
+66(F#4) Tamb BottlePoppin
+67(G4) Tom BottlePoppin 6
+68(G#4) ClosedHH BottlePoppin 3
+69(A4) Strike BottlePoppin
+70(A#4) OpenHH BottlePoppin 3
+71(B4) Crash BottlePoppin 3
+72(C5) Kick BottlePoppin 7
+73(C#5) Kick BottlePoppin 8
+74(D5) Snare BottlePoppin 7
+75(D#5) Clap BottlePoppin 4
+76(E5) Snare BottlePoppin 8
+77(F5) Tom BottlePoppin 7
+78(F#5) Shaker BottlePoppin 3
+79(G5) Tom BottlePoppin 8
+80(G#5) ClosedHH BottlePoppin 4
+81(A5) Dist BottlePoppin
+82(A#5) OpenHH BottlePoppin 4
+83(B5) Crash BottlePoppin 4

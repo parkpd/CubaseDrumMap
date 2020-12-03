@@ -1,0 +1,48 @@
+36(C2) Kick TheTrunk 1
+37(C#2) Kick The Trunk 2
+38(D2) Snare TheTrunk 1
+39(D#2) Clap TheTrunk 1
+40(E2) Snare TheTrunk 2
+41(F2) Snare TheTrunk 3
+42(F#2) Shaker TheTrunk 1
+43(G2) ClosedHH TheTrunk 1
+44(G#2) ClosedHH The Trunk 2
+45(A2) Cymbal TheTrunk
+46(A#2) OpenHH TheTrunk 1
+47(B2) Kick TheTrunk 3
+48(C3) Kick TheTrunk 4
+49(C#3) Kick TheTrunk 5
+50(D3) Snare TheTrunk 4
+51(D#3) Clap TheTrunk 2
+52(E3) SideStick TheTrunk 1
+53(F3) Snare TheTrunk 5
+54(F#3) Shaker TheTrunk 2
+55(G3) ClosedHH TheTrunk 3
+56(G#3) ClosedHH TheTrunk 4
+57(A3) Rimshot TheTrunk
+58(A#3) OpenHH TheTrunk 2
+59(B3) Kick TheTrunk 6
+60(C4) Kick TheTrunk 7
+61(C#4) Kick TheTrunk 8
+62(D4) Snare TheTrunk 6
+63(D#4) Clap TheTrunk 3
+64(E4) Snare TheTrunk 7
+65(F4) Snare TheTrunk 8
+66(F#4) Shaker TheTrunk 3
+67(G4) ClosedHH TheTrunk 5
+68(G#4) ClosedHH TheTrunk 6
+69(A4) Kick TheTrunk 9
+70(A#4) OpenHH TheTrunk 3
+71(B4) Kick TheTrunk 10
+72(C5) Kick TheTrunk 11
+73(C#5) Kick TheTrunk 12
+74(D5) Snare TheTrunk 9
+75(D#5) Clap TheTrunk 4
+76(E5) Snare TheTrunk 10
+77(F5) Snap TheTrunk
+78(F#5) Shaker TheTrunk 4
+79(G5) ClosedHH TheTrunk 7
+80(G#5) ClosedHH TheTrunk 8
+81(A5) Kick TheTrunk 13
+82(A#5) OpenHH TheTrunk 4
+83(B5) Kick TheTrunk 14

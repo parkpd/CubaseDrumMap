@@ -1,0 +1,48 @@
+36(C2) Kick Bro 1
+37(C#2) Kick Bro 2
+38(D2) Snare Bro 1
+39(D#2) Clap Bro 1
+40(E2) Snare Bro 2
+41(F2) Tom Bro
+42(F#2) Shaker Bro 1
+43(G2) Conga Bro
+44(G#2) ClosedHH Bro 1
+45(A2) RideBell Bro
+46(A#2) OpenHH Bro 1
+47(B2) Crash Bro
+48(C3) Kick Bro 3
+49(C#3) Kick Bro 4
+50(D3) Snare Bro 3
+51(D#3) Clap Bro 2
+52(E3) Snare Bro 4
+53(F3) Zap Bro
+54(F#3) Shaker Bro 2
+55(G3) Dist Bro 2
+56(G#3) ClosedHH Bro  2
+57(A3) Blop Bro
+58(A#3) OpenHH Bro 2
+59(B3) Noise Bro
+60(C4) Kick Bro 5
+61(C#4) Kick Bro 6
+62(D4) Snare Bro 5
+63(D#4) Clap Bro 3
+64(E4) Snare Bro 6
+65(F4) Combo Bro
+66(F#4) Bongo Bro 1
+67(G4) Bongo Bro 2
+68(G#4) Ride Bro
+69(A4) Glitch Bro
+70(A#4) OpenHH Bro 3
+71(B4) Tambourine Bro
+72(C5) Bass Bro 1
+73(C#5) Bass Bro 2
+74(D5) Vox Bro 2
+75(D#5) Horn Bro
+76(E5) Sweep Bro
+77(F5) Dist Bro 1
+78(F#5) Vox Bro 1
+79(G5) RevCrash Bro
+80(G#5) SFX Bro
+81(A5) Vox Bro 3
+82(A#5) Swell Bro
+83(B5) Rise Bro

@@ -1,0 +1,24 @@
+36(C2) Kick HipHop 1
+37(C#2) Kick HipHop 2
+38(D2) Snare HipHop 1
+39(D#2) Clap HipHop
+40(E2) Snare HipHop 2
+41(F2) Vinyl HipHop 1
+42(F#2) ClosedHH HipHop 1
+43(G2) Triangle HipHop
+44(G#2) ClosedHH HipHop 2
+45(A2) ClosedHH HipHop 3
+46(A#2) ClosedHH HipHop 4
+47(B2) Crash HipHop
+48(C3) Kick HipHop 3
+49(C#3) Snare HipHop 3
+50(D3) Vinyl HipHop 2
+51(D#3) Wood HipHop
+52(E3) Clave HipHop
+53(F3) Vibraslap HipHop
+54(F#3) Ride HipHop
+55(G3) Combo HipHop 1
+56(G#3) Combo HipHop 2
+57(A3) Combo HipHop 3
+58(A#3) Loop HipHop
+59(B3) RevCymbal HipHop

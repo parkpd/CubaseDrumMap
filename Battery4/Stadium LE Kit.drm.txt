@@ -1,0 +1,48 @@
+36(C2) Kick Stadium 1
+37(C#2) Kick Stadium 2
+38(D2) Snare Stadium 1
+39(D#2) Clap Stadium
+40(E2) Snare Stadium 2
+41(F2) LowTom Garage
+42(F#2) ClosedHH Stadium 1
+43(G2) MidLowTom Stadium
+44(G#2) ClosedHH Stadium 2
+45(A2) MidHiTom Stadium
+46(A#2) OpenHH Stadium
+47(B2) HiTom Stadium
+48(C3) Sidestick Stadium
+49(C#3) Crash Stadium
+50(D3) Snare Stadium 3
+51(D#3) Ride Stadium
+52(E3) Snare Stadium 4
+53(F3) SnareRim Stadium
+54(F#3) TambShake Stadium
+55(G3) StickHit Stadium
+56(G#3) TambTap Stadium
+57(A3) Cowbell Stadium 1
+58(A#3) PedalHH Stadium
+59(B3) Cowbell Stadium 2
+60(C4) Kick StadiumX 1
+61(C#4) Kick Stadium X2
+62(D4) Snare StadiumX 1
+63(D#4) Clap StadiumX
+64(E4) Snare StadiumX 2
+65(F4) LowTom GarageX
+66(F#4) ClosedHH StadiumX 1
+67(G4) MidLowTom StadiumX
+68(G#4) ClosedHH StadiumX 2
+69(A4) MidHiTom StadiumX
+70(A#4) OpenHH StadiumX
+71(B4) HiTom StadiumX
+72(C5) Sidestick StadiumX
+73(C#5) Crash StadiumX
+74(D5) Snare StadiumX 3
+75(D#5) Ride StadiumX
+76(E5) Snare StadiumX 4
+77(F5) SnareRim StadiumX
+78(F#5) TambShake StadiumX
+79(G5) StickHit StadiumX
+80(G#5) TambTap StadiumX
+81(A5) Cowbell StadiumX 1
+82(A#5) PedalHH StadiumX
+83(B5) Cowbell StadiumX 2

@@ -1,0 +1,68 @@
+"(48)
+[Racktom 1]
+Center","[Cymbal 2]
+Crashed","[Cymbal 2]
+Muted","[Ride]
+Bow",,"[Hats]
+Closed Edge","65 F3
+[Hats]
+Seq Hits","66
+[Snare]
+Center","G3
+[Snare]
+Sidestick",,"[Racktom 2]
+Rimshot","[Racktom 1]
+Center","[Racktom 1]
+Rimshot","83
+[Ride]
+Muted"
+"HiHat
+Pedal","[Racktom 3]
+Center","HiHat
+Open","[Racktom 2]
+Center",,"[Hats]
+Open Max","[Hats]
+Closed Tip","[Hats]
+Tight Edge","[Hats]
+Tight Tip",,"[Snare]
+Sidestick","[Racktom 3]
+Center","[Racktom 3]
+Rimshot","[Racktom 2]
+Center"
+"[Snare]
+Rimshot","[Floortom 2]
+Center","HiHat
+Closed","[Floortom 1]
+Center",,"[Cymbal 1]
+Muted","[Cymbal 3]
+Crashed","[Cymbal 3]
+Muted","[Ride]
+Edge",,"72 C4
+[Floortom 2]
+Center","73 C#4
+[Floortom 2]
+Rimshot","74 D4
+[Floortom 1]
+Center","75 D#4
+[Floortom 1]
+Rimshot"
+"36 C1
+[Kick]
+Hit","37
+[Snare]
+Sidestick","[Snare]
+Center","[Snare]
+Center",,"52 E2
+[Cymbal 4]
+Crashed","[Ride]
+Bell","[Cymbal 4]
+Muted","[Cymbal 1]
+Crashed",,"68 G#3
+[Snare]
+Center","69
+[Snare]
+Center","70
+[Snare]
+Center","71
+[Snare]
+Rimshot"

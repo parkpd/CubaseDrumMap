@@ -1,0 +1,23 @@
+36(C2) Kick Steveland 1
+37(C#2) Kick Steveland 2
+38(D2) Snare Steveland 1
+39(D#2) Tom Steveland 1
+40(E2) Snare Steveland 2
+41(F2) Tom Steveland 2
+42(F#2) Tom Steveland 3
+43(G2) Bass Steveland 1
+44(G#2) ClosedHH Steveland
+45(A2) Tom Steveland 4
+46(A#2) OpenHH Steveland
+47(B2) Bass Steveland 2
+48(C3) Bass Steveland 3
+49(C#3) Bass Steveland 4
+50(D3) Rhodes Steveland 1
+51(D#3) Rhodes Steveland 2
+52(E3) Scratch Steveland 1
+53(F3) Scratch Steveland 2
+54(F#3) Scratch Steveland 3
+55(G3) Scratch Steveland 4
+56(G#3) Conga Steveland 1
+57(A3) Conga Steveland 2
+58(A#3) Conga Steveland 3

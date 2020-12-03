@@ -1,0 +1,48 @@
+36(C2) Kick Glowstix 1
+37(C#2) Kick  Glowstix 2
+38(D2) Snare Glowstix 1
+39(D#2) Clap Glowstix 1
+40(E2) Snare Glowstix 2
+41(F2) Ride Glowstix 1
+42(F#2) Shaker Glowstix 1
+43(G2) Bass Glowstix 1
+44(G#2) ClosedHH Glowstix 1
+45(A2) Ride Glowstix 2
+46(A#2) OpenHH Glowstix 1
+47(B2) Crash Glowstix 1
+48(C3) Kick Glowstix 3
+49(C#3) Kick Glowstix 4
+50(D3) Snare Glowstix 3
+51(D#3) Clap Glowstix 2
+52(E3) Snare Glowstix 4
+53(F3) Beep Glowstix
+54(F#3) Shaker Glowstix 2
+55(G3) Voc Glowstix
+56(G#3) ClosedHH Glowstix 2
+57(A3) Ride Glowstix 3
+58(A#3) OpenHH Glowstix  2
+59(B3) Crash Glowstix 2
+60(C4) Kick Glowstix 5
+61(C#4) Kick Glowstix 6
+62(D4) Snare Glowstix 5
+63(D#4) Clap Glowstix 3
+64(E4) Snare Glowstix 6
+65(F4) Glitch Glowstix
+66(F#4) Shaker Glowstix 3
+67(G4) Reese Glowstix
+68(G#4) ClosedHH Glowstix 3
+69(A4) Ride Glowstix 4
+70(A#4) OpenHH Glowstix  3
+71(B4) Bass Glowstix 2
+72(C5) SFX Glowstix
+73(C#5) Blop Glowstix
+74(D5) Zap Glowstix
+75(D#5) Blip Glowstix
+76(E5) Tom Glowstix
+77(F5) Hit Glowstix
+78(F#5) Shaker Glowstix 4
+79(G5) Wobble Glowstix 1
+80(G#5) Wobble Glowstix 2
+81(A5) Buzz Glowstix
+82(A#5) OpenHH Glowstix  4
+83(B5) Chord Glowstix

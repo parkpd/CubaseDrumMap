@@ -1,0 +1,48 @@
+36(C2) Kick TerrorCore 1
+37(C#2) Kick TerrorCore 2
+38(D2) Snare TerrorCore 1
+39(D#2) Clap TerrorCore 1
+40(E2) Snare TerrorCore 2
+41(F2) Bongo TerrorCore 1
+42(F#2) Shaker TerrorCore 1
+43(G2) Combo TerrorCore 2
+44(G#2) ClosedHH TerrorCore 1
+45(A2) SFX TerrorCore
+46(A#2) OpenHH TerrorCore 1
+47(B2) Splash TerrorCore
+48(C3) Kick TerrorCore 3
+49(C#3) Kick TerrorCore 4
+50(D3) Snare TerrorCore 3
+51(D#3) Clap TerrorCore 2
+52(E3) Snare TerrorCore 4
+53(F3) Dist TerrorCore 1
+54(F#3) Shaker TerrorCore 2
+55(G3) Dist TerrorCore 3
+56(G#3) ClosedHH TerrorCore 2
+57(A3) Ambience TerrorCore
+58(A#3) OpenHH TerrorCore 2
+59(B3) Hit TerrorCore
+60(C4) Kick TerrorCore 5
+61(C#4) Kick TerrorCore 6
+62(D4) Sidestick TerrorCore 1
+63(D#4) Clap TerrorCore 3
+64(E4) Sidestick TerrorCore 2
+65(F4) Combo TerrorCore 1
+66(F#4) Tom TerrorCore
+67(G4) Dist TerrorCore 2
+68(G#4) Click TerrorCore
+69(A4) Siren TerrorCore
+70(A#4) Ride TerrorCore
+71(B4) Impact TerrorCore
+72(C5) Kick TerrorCore 7
+73(C#5) Combo TerrorCore 3
+74(D5) Wow TerrorCore
+75(D#5) Wobble TerrorCore
+76(E5) Stab TerrorCore
+77(F5) Bongo TerrorCore 2
+78(F#5) Perc TerrorCore
+79(G5) Bongo TerrorCore 3
+80(G#5) Zap TerrorCore 3
+81(A5) Zap TerrorCore 1
+82(A#5) Zap TerrorCore 2
+83(B5) Snap TerrorCore

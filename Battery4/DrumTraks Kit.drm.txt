@@ -1,0 +1,28 @@
+36(C2) Kick DrumTraks 1
+37(C#2) Kick DrumTraks 2
+38(D2) Snare  DrumTraks 1
+39(D#2) Clap DrumTraks
+40(E2) Snare  DrumTraks 2
+41(F2) Sidestick DrumTraks
+42(F#2) Shaker DrumTraks
+43(G2) LowTom DrumTraks
+44(G#2) ClosedHH DrumTraks
+45(A2) MidTom DrumTraks
+46(A#2) OpenHH DrumTraks
+47(B2) HiTom DrumTraks
+48(C3) Kick DrumTraksX 1
+49(C#3) Kick DrumTraksX 2
+50(D3) Snare DrumTraksX 1
+51(D#3) Clap DrumTraksX
+52(E3) Snare  DrumTraks X 2
+53(F3) Sidestick DrumTraksX
+54(F#3) Shaker DrumTraksX
+55(G3) LowTom DrumTraksX
+56(G#3) ClosedHH DrumTraksX
+57(A3) MidTom DrumTraksX
+58(A#3) OpenHH DrumTraksX
+59(B3) HiTom DrumTraksX
+60(C4) Tamb DrumTraks
+61(C#4) Crash DrumTraks
+62(D4) Cowbell DrumTraks
+63(D#4) Ride DrumTraks

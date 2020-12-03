@@ -1,0 +1,48 @@
+36(C2) Kick Session 1
+37(C#2) Kick Session 2
+38(D2) Snare Session 1
+39(D#2) Clap Session
+40(E2) Snare Session 2
+41(F2) LowTomSession
+42(F#2) ClosedHH Session 1
+43(G2) MidLowTom Session
+44(G#2) ClosedHH Session 2
+45(A2) MidHiTom Session
+46(A#2) OpenHH Session
+47(B2) HiTom Session
+48(C3) Sidestick Session
+49(C#3) Crash Session
+50(D3) Snare Session 3
+51(D#3) Ride Session
+52(E3) Snare Session 4
+53(F3) SnareRim Session
+54(F#3) TambShake Session
+55(G3) StickHit Session
+56(G#3) TambTap Session
+57(A3) WoodLow Session
+58(A#3) PedalHH Session
+59(B3) WoodHi Session
+60(C4) Kick SessionX 1
+61(C#4) Kick SessionX 2
+62(D4) Snare SessionX 1
+63(D#4) Clap SessionX
+64(E4) Snare SessionX 2
+65(F4) LowTomSessionX
+66(F#4) ClosedHH SessionX 1
+67(G4) MidLowTom SessionX
+68(G#4) ClosedHH SessionX 2
+69(A4) MidHiTom SessionX
+70(A#4) OpenHH SessionX
+71(B4) HiTom SessionX
+72(C5) Sidestick SessionX
+73(C#5) Crash SessionX
+74(D5) Snare SessionX 3
+75(D#5) Ride SessionX
+76(E5) Snare SessionX 4
+77(F5) SnareRim SessionX
+78(F#5) TambShake SessionX
+79(G5) StickHit SessionX
+80(G#5) TambTap SessionX
+81(A5) WoodLow SessionX
+82(A#5) PedalHH SessionX
+83(B5) WoodHi SessionX

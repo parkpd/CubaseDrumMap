@@ -1,0 +1,48 @@
+36(C2) Kick Swedish 1
+37(C#2) Kick Swedish 2
+38(D2) Snare Swedish 1
+39(D#2) Clap Swedish 1
+40(E2) Snare Swedish 2
+41(F2) LowTom Swedish 1
+42(F#2) Shaker Swedish 1
+43(G2) MidLowTom Swedish 1
+44(G#2) ClosedHH Swedish 1
+45(A2) MidHiTom Swedish 1
+46(A#2) OpenHH Swedish 1
+47(B2) HiTom Swedish 1
+48(C3) Kick Swedish 3
+49(C#3) Kick Swedish 4
+50(D3) Snare Swedish 3
+51(D#3) Clap Swedish 2
+52(E3) Snare Swedish 4
+53(F3) LowTom Swedish 2
+54(F#3) Shaker Swedish 2
+55(G3) MidLowTom Swedish 2
+56(G#3) ClosedHH Swedish 2
+57(A3) MidHiTom Swedish 2
+58(A#3) OpenHH Swedish 2
+59(B3) HiTom Swedish 2
+60(C4) Kick Swedish 5
+61(C#4) Kick Swedish 6
+62(D4) Snare Swedish 5
+63(D#4) Clap Swedish 3
+64(E4) Snare Swedish 6
+65(F4) Gong Swedish
+66(F#4) Shaker Swedish 3
+67(G4) Metallic Swedish 1
+68(G#4) ClosedHH Swedish 3
+69(A4) Cymbal Swedish
+70(A#4) OpenHH Swedish 3
+71(B4) Clave Swedish
+72(C5) Kick Swedish 7
+73(C#5) Kick Swedish 8
+74(D5) Snare Swedish 7
+75(D#5) Clap Swedish 4
+76(E5) Snare Swedish 8
+77(F5) Sidestick Swedish
+78(F#5) ClosedHH Swedish 4
+79(G5) Clap  Swedish 5
+80(G#5) ClosedHH Swedish 5
+81(A5) Timbale Swedish
+82(A#5) OpenHH Swedish 4
+83(B5) Metallic Swedish 2

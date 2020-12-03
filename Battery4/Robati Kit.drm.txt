@@ -1,0 +1,72 @@
+36(C2) Kick Robati 1
+37(C#2) Kick Robati 2
+38(D2) Snare Robati 1
+39(D#2) Clap Robati
+40(E2) Snare Robati 2
+41(F2) Tom Robati
+42(F#2) Dist Robati 5
+43(G2) Drill Robati 1
+44(G#2) ClosedHH Robati
+45(A2) Stab Robati
+46(A#2) OpenHH Robati 1
+47(B2) SFX Robati 2
+48(C3) Perc Robati
+49(C#3) Snare Robati 4
+50(D3) Snare Robati 3
+51(D#3) Rim Robati
+52(E3) Blip Robati 1
+53(F3) SFX Robati 1
+54(F#3) Glitch Robati 2
+55(G3) Buzz Robati 1
+56(G#3) HatRoll Robati
+57(A3) Glitch Robati 1
+58(A#3) OpenHH Robati 2
+59(B3) SFX Robati 3
+60(C4) SFX Robati 4
+61(C#4) Blip Robati 2
+62(D4) Zap Robati 2
+63(D#4) Sidestick Robati
+64(E4) Dist Robati 1
+65(F4) Dist Robati 2
+66(F#4) Dist Robati 3
+67(G4) Dist Robati 4
+68(G#4) Ride Robati
+69(A4) Dist Robati 6
+70(A#4) Glitch Robati 3
+71(B4) Drill Robati 2
+72(C5) LoFill Robati
+73(C#5) Hit Robati 1
+74(D5) Noise Robati
+75(D#5) Drill Robati 3
+76(E5) SFX Robati 5
+77(F5) Dist Robati 7
+78(F#5) Zap Robati 3
+79(G5) Glitch Robati 4
+80(G#5) Fall Robati
+81(A5) Drill Robati 4
+82(A#5) Metallic Robati 1
+83(B5) Sweep Robati 1
+84(C6) Dist Robati 8
+85(C#6) Buzz Robati 2
+86(D6) Impact Robati 1
+87(D#6) Buzz Robati 3
+88(E6) Zap Robati 1
+89(F6) Hit Robati
+90(F#6) Metallic Robati 2
+91(G6) Guitar Robati
+92(G#6) Sweep Robati 2
+93(A6) Hit Robati 2
+94(A#6) Wobble Robati
+95(B6) SFX Robati 6
+96(C7) Impact Robati 2
+97(C#7) Drill Robati 5
+98(D7) Combo Robati 1
+99(D#7) SFX Robati 7
+100(E7) Dive Robati
+101(F7) Drill Robati 6
+102(F#7) Swell Robati
+103(G7) Vox Robati
+104(G#7) Combo Robati 2
+105(A7) Buzz Robati 4
+106(A#7) Drill Robati 7
+107(B7) Drill Robati 8

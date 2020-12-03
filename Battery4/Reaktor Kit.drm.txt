@@ -1,0 +1,21 @@
+36(C2) Kick Reaktor 1
+37(C#2) Kick Reaktor 2
+38(D2) Snare Reaktor 1
+39(D#2) Clap Reaktor
+40(E2) Snare Reaktor 2
+41(F2) Zap Reaktor
+42(F#2) Shaker Reaktor
+43(G2) Hit Reaktor
+44(G#2) ClosedHH Reaktor
+45(A2) Atmos Reaktor
+46(A#2) OpenHH Reaktor 1
+47(B2) Noise Reaktor
+48(C3) Stab  Reaktor
+49(C#3) Ambience Reaktor 1
+50(D3) Ambience Reaktor 2
+51(D#3) Sub Reaktor
+52(E3) SFX Reaktor 1
+53(F3) SFX Reaktor 2
+54(F#3) Drone Reaktor
+55(G3) SFX Reaktor 3
+56(G#3) OpenHH Reaktor 2

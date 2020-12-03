@@ -1,0 +1,72 @@
+36(C2) Kick Eliot 1
+37(C#2) Kick Eliot 2
+38(D2) Snare Eliot 1
+39(D#2) Snare Eliot 2
+40(E2) SideStick Eliot
+41(F2) Breath Eliot 1
+42(F#2) Shaker Eliot 1
+43(G2) Perc Eliot 1
+44(G#2) ClosedHH Eliot 1
+45(A2) Cymbal Eliot 1
+46(A#2) OpenHH Eliot 1
+47(B2) Cymbal Eliot 2
+48(C3) Kick Eliot 3
+49(C#3) Kick Eliot 4
+50(D3) Snare Eliot 3
+51(D#3) Snare Eliot 4
+52(E3) Rimshot Eliot 1
+53(F3) Breath Eliot 2
+54(F#3) Shaker Eliot 2
+55(G3) Perc Eliot 2
+56(G#3) ClosedHH Eliot 2
+57(A3) Breath Eliot 3
+58(A#3) OpenHH Eliot 2
+59(B3) Cymbal Eliot 3
+60(C4) Kick Eliot 5
+61(C#4) Kick Eliot 6
+62(D4) Snare Eliot 5
+63(D#4) Snare Eliot 6
+64(E4) Rimshot Eliot 2
+65(F4) Perc Eliot 3
+66(F#4) Breath Eliot 4
+67(G4) Vocal Eliot 1
+68(G#4) ClosedHH Eliot 3
+69(A4) Perc Eliot 4
+70(A#4) Cymbal Eliot 4
+71(B4) Cymbal Eliot 5
+72(C5) Kick Eliot 7
+73(C#5) Kick Eliot 8
+74(D5) Rimshot Eliot 3
+75(D#5) Rimshot Eliot 4
+76(E5) Snare Eliot 7
+77(F5) Perc Eliot 5
+78(F#5) Breath Eliot 5
+79(G5) Vocal Eliot 2
+80(G#5) ClosedHH Eliot 4
+81(A5) Breath Eliot 6
+82(A#5) ClosedHH Eliot 6
+83(B5) Vocal Eliot 3
+84(C6) Bass Eliot 1
+85(C#6) Bass Eliot 2
+86(D6) Bass Eliot 3
+87(D#6) Bass Eliot 4
+88(E6) Bass Eliot 5
+89(F6) Bass Eliot 6
+90(F#6) Breath Eliot 7
+91(G6) Vocal Eliot 4
+92(G#6) ClosedHH Eliot 5
+93(A6) Vocal Eliot 5
+94(A#6) Vocal Eliot 6
+95(B6) Vocal Eliot 7
+96(C7) Perc Eliot 6
+97(C#7) Perc Eliot 7
+98(D7) Loop 84 Bpm Eliot
+99(D#7) Loop 92 Bpm Eliot
+100(E7) Loop 95 Bpm Eliot
+101(F7) Loop 112 Bpm Eliot
+102(F#7) Loop 122 Bpm Eliot
+103(G7) Loop 128 Bpm Eliot
+104(G#7) Loop 130 Bpm Eliot
+105(A7) Loop 135 Bpm Eliot
+106(A#7) Loop 140 Bpm Eliot
+107(B7) Loop 184 Bpm Eliot

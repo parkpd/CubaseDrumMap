@@ -1,0 +1,48 @@
+36(C2) Kick Mini 1
+37(C#2) Kick Mini 2
+38(D2) Snare Mini 1
+39(D#2) Clap Mini 1
+40(E2) Snare Mini 2
+41(F2) Perc Mini 1
+42(F#2) Shaker Mini 1
+43(G2) Perc Mini 2
+44(G#2) ClosedHH Mini 1
+45(A2) Perc Mini 3
+46(A#2) OpenHH Mini 1
+47(B2) Perc Mini 4
+48(C3) Kick Mini 3
+49(C#3) Kick Mini 4
+50(D3) Snare Mini 3
+51(D#3) Clap Mini 2
+52(E3) Snare Mini 4
+53(F3) Click Mini 1
+54(F#3) Shaker Mini 2
+55(G3) Click Mini 2
+56(G#3) ClosedHH Mini 2
+57(A3) Perc Mini 5
+58(A#3) OpenHH Mini 2
+59(B3) Click Mini 3
+60(C4) Kick Mini 5
+61(C#4) Kick Mini 6
+62(D4) Snare Mini 5
+63(D#4) Clap Mini 3
+64(E4) Snare Mini 6
+65(F4) Perc Mini 6
+66(F#4) Shaker Mini 3
+67(G4) Perc Mini 7
+68(G#4) ClosedHH Mini 3
+69(A4) Perc Mini 8
+70(A#4) OpenHH Mini 3
+71(B4) Vox Mini
+72(C5) Kick Mini 7
+73(C#5) Bass Mini
+74(D5) Perc Mini 9
+75(D#5) Chord Mini
+76(E5) Perc Mini 10
+77(F5) Perc Mini 11
+78(F#5) Shaker Mini 4
+79(G5) Blip Mini
+80(G#5) ClosedHH Mini 4
+81(A5) Perc Mini 12
+82(A#5) OpenHH Mini 4
+83(B5) Noise Mini

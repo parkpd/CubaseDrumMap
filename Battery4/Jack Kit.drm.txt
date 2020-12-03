@@ -1,0 +1,48 @@
+36(C2) Kick 707 1
+37(C#2) Kick 707 2
+38(D2) Snare 707 1
+39(D#2) Clap 707
+40(E2) Snare 707 2
+41(F2) Sidestick 707
+42(F#2) ClosedHH 707 1
+43(G2) LowTom 707
+44(G#2) ClosedHH 707 2
+45(A2) MidTom 707
+46(A#2) OpenHH 707
+47(B2) HiTom 707
+48(C3) Kick 808 2
+49(C#3) Kick 808 17
+50(D3) Snare 808 2
+51(D#3) Clap 808 1
+52(E3) Snare 808 4
+53(F3) LowTom 808 1
+54(F#3) Maracas 808  1
+55(G3) MidTom 808 1
+56(G#3) ClosedHH 808 1
+57(A3) HiTom 808 1
+58(A#3) OpenHH 808 3
+59(B3) Cymbal 808 3
+60(C4) Kick 909 10
+61(C#4) Kick 909 5
+62(D4) Snare 909 1
+63(D#4) Clap 909 1
+64(E4) Snare 909 3
+65(F4) LowTom 909 1
+66(F#4) ClosedHH 909 1
+67(G4) MidTom 909 1
+68(G#4) ClosedHH 909 3
+69(A4) HiTom 909 1
+70(A#4) OpenHH 909 2
+71(B4) Crash 909 1
+72(C5) Kick RZ1X
+73(C#5) Sidestick RZ1X
+74(D5) Snare RZ1X
+75(D#5) Clap RZ1X
+76(E5) Bass Jack 1
+77(F5) Bass Jack 2
+78(F#5) Bass Jack 3
+79(G5) Bass Jack 4
+80(G#5) Bass Jack 5
+81(A5) Bass Jack 6
+82(A#5) Bass Jack 7
+83(B5) Bass Jack 8

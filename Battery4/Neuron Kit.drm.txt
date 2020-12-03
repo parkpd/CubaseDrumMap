@@ -1,0 +1,48 @@
+36(C2) Kick Neuron 1
+37(C#2) Kick Neuron 2
+38(D2) Snare Neuron 1
+39(D#2) Rimshot Neuron
+40(E2) Snare Neuron 2
+41(F2) Crash Neuron
+42(F#2) Shaker Neuron 1
+43(G2) Siren Neuron
+44(G#2) ClosedHH Neuron 1
+45(A2) Ride Neuron 1
+46(A#2) OpenHH Neuron 1
+47(B2) Ride Neuron 2
+48(C3) Kick Neuron 3
+49(C#3) Kick Neuron 4
+50(D3) Snare Neuron 3
+51(D#3) Snare Neuron 4
+52(E3) Snare Neuron 5
+53(F3) Metal Neuron
+54(F#3) Shaker Neuron 2
+55(G3) Zap Neuron
+56(G#3) ClosedHH Neuron 2
+57(A3) Timpani Neuron
+58(A#3) OpenHH Neuron 2
+59(B3) RideBell Neuron
+60(C4) Kick Neuron 5
+61(C#4) Kick Neuron 6
+62(D4) Snare Neuron 6
+63(D#4) Snare Neuron 7
+64(E4) Snare Neuron 8
+65(F4) Sub Neuron
+66(F#4) Shaker Neuron 3
+67(G4) Cowbell Neuron
+68(G#4) ClosedHH Neuron 3
+69(A4) Distortion Neuron
+70(A#4) PedalHH Neuron
+71(B4) Wobble Neuron
+72(C5) Slap Neuron
+73(C#5) Blop Neuron
+74(D5) Bass Neuron 1
+75(D#5) Bass Neuron 2
+76(E5) Stab Neuron 1
+77(F5) Stab Neuron 2
+78(F#5) Shaker Neuron 4
+79(G5) Stab Neuron 3
+80(G#5) Reese Neuron 1
+81(A5) Reese Neuron 2
+82(A#5) Rise Neuron
+83(B5) Atmos Neuron

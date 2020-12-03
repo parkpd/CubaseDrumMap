@@ -1,0 +1,31 @@
+36(C2) Kick Neubauten 1
+37(C#2) Kick Neubauten 2
+38(D2) Snare Neubauten 1
+39(D#2) Snare Neubauten 2
+40(E2) Snare Neubauten 3
+41(F2) Splash Neubauten
+42(F#2) Triangle Neubauten
+43(G2) LoPerc Neubauten
+44(G#2) Perc Neubauten 1
+45(A2) Perc Neubauten 2
+46(A#2) Perc Neubauten 3
+47(B2) Perc Neubauten 4
+48(C3) Kick Neubauten 3
+49(C#3) Kick Neubauten 4
+50(D3) Snare Neubauten 4
+51(D#3) Snare Neubauten 5
+52(E3) Snare Neubauten 6
+53(F3) SFX Neubauten 2
+54(F#3) Crash Neubauten
+55(G3) Chimes Neubauten
+56(G#3) Metallic Neubauten 1
+57(A3) Metallic Neubauten 2
+58(A#3) SFX Neubauten 3
+59(B3) Perc Neubauten 5
+60(C4) HandDrum Neubauten 1
+61(C#4) HandDrum Neubauten 2
+62(D4) Snare Neubauten 7
+63(D#4) RevSnare Neubauten
+64(E4) SFX Neubauten 1
+65(F4) HandDrum Neubauten 3
+66(F#4) HandDrum Neubauten 4

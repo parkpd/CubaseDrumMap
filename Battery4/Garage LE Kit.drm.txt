@@ -1,0 +1,48 @@
+36(C2) Kick Garage 1
+37(C#2) Kick Garage 2
+38(D2) Snare Garage 1
+39(D#2) Clap Garage
+40(E2) Snare Garage 2
+41(F2) LowTom Garage
+42(F#2) ClosedHH Garage 1
+43(G2) MidTom Garage
+44(G#2) ClosedHH Garage 2
+45(A2) HiTom Garage
+46(A#2) OpenHH Garage
+47(B2) Splash Garage
+48(C3) Sidestick Garage
+49(C#3) Crash Garage
+50(D3) Snare Garage 3
+51(D#3) Ride Garage
+52(E3) Snare Garage 4
+53(F3) SnareRim Garage
+54(F#3) TambShake Garage
+55(G3) StickHit Garage
+56(G#3) TambTap Garage
+57(A3) Cowbell Garage 1
+58(A#3) PedalHH Garage
+59(B3) Cowbell Garage 2
+60(C4) Kick GarageX 1
+61(C#4) Kick GarageX 2
+62(D4) Snare GarageX 1
+63(D#4) Clap GarageX
+64(E4) Snare GarageX 2
+65(F4) LowTom GarageX
+66(F#4) ClosedHH GarageX 1
+67(G4) MidTom GarageX
+68(G#4) ClosedHH GarageX 2
+69(A4) HiTom GarageX
+70(A#4) OpenHH GarageX
+71(B4) Splash GarageX
+72(C5) Sidestick GarageX
+73(C#5) Crash GarageX
+74(D5) Snare GarageX 3
+75(D#5) Ride GarageX
+76(E5) Snare GarageX 4
+77(F5) SnareRim GarageX
+78(F#5) TambShake GarageX
+79(G5) StickHit GarageX
+80(G#5) TambTap GarageX
+81(A5) Cowbell GarageX 1
+82(A#5) PedalHH GarageX
+83(B5) Cowbell GarageX 2

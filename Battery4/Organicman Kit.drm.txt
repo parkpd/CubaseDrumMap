@@ -1,0 +1,48 @@
+36(C2) Kick Organicman 1
+37(C#2) Kick Organicman 2
+38(D2) Snare Organicman 1
+39(D#2) Clap Organicman 1
+40(E2) Snare Organicman 2
+41(F2) HiTom Organicman
+42(F#2) Shaker Organicman
+43(G2) Click Organicman 1
+44(G#2) ClosedHH Organicman 1
+45(A2) Clave Organicman 1
+46(A#2) OpenHH Organicman 1
+47(B2) Crash Organicman
+48(C3) Kick Organicman 3
+49(C#3) Kick Organicman 4
+50(D3) Snare Organicman 3
+51(D#3) Clap Organicman 2
+52(E3) Snare Organicman 4
+53(F3) Click Organicman 2
+54(F#3) Drill Organicman
+55(G3) Blop Organicman
+56(G#3) ClosedHH Organicman 2
+57(A3) Cowbell Organicman
+58(A#3) OpenHH Organicman 2
+59(B3) LoClave Organicman
+60(C4) Kick Organicman 5
+61(C#4) Kick Organicman 6
+62(D4) Snare Organicman 5
+63(D#4) Rim Organicman 1
+64(E4) Rim Organicman 2
+65(F4) LoTom Organicman
+66(F#4) MidTom Organicman
+67(G4) Tom Organicman
+68(G#4) ClosedHH Organicman 3
+69(A4) Clave Organicman 2
+70(A#4) Scratch Organicman
+71(B4) RevClap Organicman
+72(C5) Kick Organicman 7
+73(C#5) Blip Organicman
+74(D5) Combo Organicman
+75(D#5) SFX Organicman
+76(E5) Metallic Organicman
+77(F5) Stab Organicman
+78(F#5) Zap Organicman
+79(G5) Dist Organicman
+80(G#5) Arp Organicman
+81(A5) Buzz Organicman 1
+82(A#5) Buzz Organicman 2
+83(B5) Buzz Organicman 3

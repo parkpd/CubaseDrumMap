@@ -1,0 +1,48 @@
+36(C2) Kick Miami 1
+37(C#2) Kick Miami 2
+38(D2) Snare Miami 1
+39(D#2) Clap Miami 1
+40(E2) Snare Miami 2
+41(F2) Beep Miami
+42(F#2) Tom Miami 1
+43(G2) Tom Miami 2
+44(G#2) ClosedHH Miami 1
+45(A2) Vox Miami 1
+46(A#2) OpenHH Miami 1
+47(B2) Vox Miami 2
+48(C3) Kick Miami 3
+49(C#3) Kick Miami 4
+50(D3) Snare Miami 3
+51(D#3) Clap Miami 2
+52(E3) Snare Miami 4
+53(F3) Rimshot Miami
+54(F#3) Shaker Miami 1
+55(G3) Perc Miami
+56(G#3) ClosedHH Miami 2
+57(A3) Stab Miami 1
+58(A#3) OpenHH Miami 2
+59(B3) Piano Miami
+60(C4) Kick Miami 5
+61(C#4) Kick Miami 6
+62(D4) Snare Miami 5
+63(D#4) Clap Miami 3
+64(E4) Clap Miami 4
+65(F4) Tambourine Miami 1
+66(F#4) Shaker Miami 2
+67(G4) Chord Miami
+68(G#4) ClosedHH Miami 3
+69(A4) ClosedHH Miami 5
+70(A#4) OpenHH Miami 3
+71(B4) Shaker Miami 3
+72(C5) Kick Miami 7
+73(C#5) Kick Miami 8
+74(D5) Snare Miami 6
+75(D#5) Clap Miami 5
+76(E5) Snare Miami 7
+77(F5) Vox Miami 3
+78(F#5) Tambourine Miami 2
+79(G5) Vox Miami 4
+80(G#5) ClosedHH Miami 4
+81(A5) Vox Miami 5
+82(A#5) OpenHH Miami 4
+83(B5) Stab Miami 2

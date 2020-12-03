@@ -1,0 +1,48 @@
+36(C2) Kick Dubway 1
+37(C#2) Kick Dubway 2
+38(D2) Snare Dubway 1
+39(D#2) Clap Dubway
+40(E2) Timbale Dubway
+41(F2) Woodblock Dubway
+42(F#2) Shaker Dubway 1
+43(G2) Guitar Dubway
+44(G#2) ClosedHH Dubway 1
+45(A2) Cowbell Dubway
+46(A#2) OpenHH Dubway 1
+47(B2) Crash Dubway
+48(C3) Kick Dubway 3
+49(C#3) Kick Dubway 4
+50(D3) Snare Dubway 2
+51(D#3) Combo Dubway
+52(E3) Snare Dubway 3
+53(F3) Conga Dubway 1
+54(F#3) Shaker Dubway 2
+55(G3) Perc Dubway 1
+56(G#3) ClosedHH Dubway 2
+57(A3) Perc Dubway 2
+58(A#3) OpenHH Dubway 2
+59(B3) Ride Dubway
+60(C4) Tom Dubway
+61(C#4) Perc Dubway 3
+62(D4) Snare Dubway 4
+63(D#4) Rimshot Dubway 1
+64(E4) Rimshot Dubway 2
+65(F4) Marimba Dubway
+66(F#4) Tambourine Dubway
+67(G4) Conga Dubway 2
+68(G#4) ClosedHH Dubway 3
+69(A4) Toy Dubway
+70(A#4) OpenHH Dubway 3
+71(B4) Sweep Dubway
+72(C5) HiTom Dubway
+73(C#5) MidTom Dubway
+74(D5) LoTom Dubway
+75(D#5) Bass Dubway 1
+76(E5) Bass Dubway 2
+77(F5) Bass Dubway 3
+78(F#5) Cabasa Dubway
+79(G5) LoFill Dubway
+80(G#5) Zap Dubway
+81(A5) SFX Dubway
+82(A#5) Chord Dubway 1
+83(B5) Chord Dubway 2

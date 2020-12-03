@@ -1,0 +1,20 @@
+36(C2) Kick 7T8
+37(C#2) Crackle 7T8 1
+38(D2) Snare 7T8
+39(D#2) Rim 7T8
+40(E2) Metallic 7T8 1
+41(F2) Metallic 7T8 2
+42(F#2) Shaker 7T8
+43(G2) Crackle 7T8 2
+44(G#2) ClosedHH 7T8
+45(A2) Crackle 7T8 3
+46(A#2) OpenHH 7T8
+47(B2) Tambourine 7T8
+48(C3) Cowbell 7T8
+49(C#3) LoTom 7T8
+50(D3) MidTom 7T8
+51(D#3) HiTom 7T8
+52(E3) Clave 7T8
+53(F3) Crackle 7T8 4
+54(F#3) Crackle 7T8 5
+55(G3) Crackle 7T8 6

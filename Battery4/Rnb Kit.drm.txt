@@ -1,0 +1,54 @@
+36(C2) Kick Rnb 1
+37(C#2) Kick Rnb 2
+38(D2) Snare Rnb 1
+39(D#2) Clap Rnb 1
+40(E2) Snare Rnb 2
+41(F2) Crackle Rnb
+42(F#2) Shaker  Rnb 1
+43(G2) Click Rnb
+44(G#2) ClosedHH Rnb 1
+45(A2) Blip  Rnb
+46(A#2) OpenHH  Rnb 1
+47(B2) Tambourine Rnb 1
+48(C3) Kick Rnb 3
+49(C#3) Kick Rnb 4
+50(D3) Snare Rnb 3
+51(D#3) Clap Rnb 2
+52(E3) Snare Rnb 4
+53(F3) Slap Rnb
+54(F#3) Shaker  Rnb 2
+55(G3) Perc Rnb
+56(G#3) ClosedHH Rnb 2
+57(A3) Noise Rnb
+58(A#3) OpenHH Rnb 2
+59(B3) Tambourine Rnb 2
+60(C4) Kick Rnb 5
+61(C#4) Kick Rnb 6
+62(D4) Snare Rnb 5
+63(D#4) Clap Rnb 3
+64(E4) Rim Rnb 1
+65(F4) Guitar Rnb 1
+66(F#4) Guitar Rnb 2
+67(G4) Stab Rnb
+68(G#4) ClosedHH Rnb 3
+69(A4) Breath Rnb
+70(A#4) OpenHH Rnb 3
+71(B4) Triangle Rnb
+72(C5) Kick Rnb 7
+73(C#5) Kick Rnb 8
+74(D5) Rim Rnb 2
+75(D#5) SideStick Rnb
+76(E5) Rim Rnb 3
+77(F5) SFX Rnb
+78(F#5) Metallic Rnb
+79(G5) Dist Rnb
+80(G#5) Combo Rnb
+81(A5) Bass Rnb 1
+82(A#5) Bass Rnb 2
+83(B5) Scratch Rnb
+84(C6) Lick  Rnb 1
+85(C#6) Lick  Rnb 2
+86(D6) Lick Rnb 3
+87(D#6) Lick Rnb 4
+88(E6) Lick Rnb 5
+89(F6) Snap Rnb

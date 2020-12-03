@@ -1,0 +1,48 @@
+36(C2) Kick Mushroom 1
+37(C#2) Kick Mushroom 2
+38(D2) Snare Mushroom 1
+39(D#2) Clap Mushroom 1
+40(E2) Snare Mushroom 2
+41(F2) Tambourine Mushroom 1
+42(F#2) Tambourine Mushroom 2
+43(G2) Perc Mushroom
+44(G#2) ClosedHH Mushroom 1
+45(A2) Stab Mushroom 1
+46(A#2) OpenHH Mushroom 1
+47(B2) Atmos Mushroom
+48(C3) Kick Mushroom 3
+49(C#3) Kick Mushroom 4
+50(D3) Snare Mushroom 3
+51(D#3) Clap Mushroom 2
+52(E3) Snare Mushroom 4
+53(F3) SFX Mushroom 2
+54(F#3) Shaker Mushroom
+55(G3) Scratch Mushroom
+56(G#3) ClosedHH Mushroom 2
+57(A3) Fall Mushroom
+58(A#3) OpenHH Mushroom 2
+59(B3) Sweep Mushroom
+60(C4) Kick Mushroom 5
+61(C#4) Wow Mushroom
+62(D4) Stab Mushroom 2
+63(D#4) Clap Mushroom 3
+64(E4) Zap Mushroom 1
+65(F4) SFX Mushroom 1
+66(F#4) Glitch Mushroom
+67(G4) Combo Mushroom
+68(G#4) ClosedHH Mushroom 3
+69(A4) Ride Mushroom 1
+70(A#4) OpenHH Mushroom 3
+71(B4) Ride Mushroom 2
+72(C5) Zap Mushroom 2
+73(C#5) Buzz Mushroom 1
+74(D5) Buzz Mushroom 2
+75(D#5) Clap Mushroom 4
+76(E5) Swell Mushroom
+77(F5) Hit Mushroom
+78(F#5) Lead Mushroom
+79(G5) Bass Mushroom 1
+80(G#5) Bass Mushroom 2
+81(A5) Saw Mushroom
+82(A#5) RevCrash Mushroom
+83(B5) Crash mushroom

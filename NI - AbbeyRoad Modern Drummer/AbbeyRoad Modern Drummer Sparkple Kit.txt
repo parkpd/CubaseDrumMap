@@ -1,0 +1,128 @@
+|| C-2 ||  ||
+|| C#-2 ||  ||
+|| D-2 ||  ||
+|| D#-2 ||  ||
+|| E-2 ||  ||
+|| F-2 ||  ||
+|| F#-2 ||  ||
+|| G-2 ||  ||
+|| G#-2 ||  ||
+|| A-2 ||  ||
+|| A#-2 ||  ||
+|| B-2 ||  ||
+|| C-1 ||  ||
+|| C#-1 ||  ||
+|| D-1 ||  ||
+|| D#-1 ||  ||
+|| E-1 || Perc 4 (Cowbell) - Low Open ||
+|| F-1 || Perc 4 (Cowbell) - Low Muted ||
+|| F#-1 ||  ||
+|| G-1 || Perc 4 (Cowbell) - High Open ||
+|| G#-1 ||  ||
+|| A-1 || Perc 4 (Cowbell) - High Muted ||
+|| A#-1 || Crash 1 - Choke ||
+|| B-1 || Ride - Choke ||
+|| C0 || Crash 2 - Choke ||
+|| C#0 || Sizzle Ride - Choke ||
+|| D0 || Cymbal 5 (Splash) - Choke ||
+|| D#0 || Perc 3 (Chopper) - Low ||
+|| E0 || Perc 3 (Chopper) - Mid ||
+|| F0 || Perc 3 (Chopper) - High ||
+|| F#0 || Perc 3 (Chopper) - Mid ||
+|| G0 || Perc5 (Tambourine) - Tap ||
+|| G#0 || Perc5 (Tambourine) - Shake ||
+|| A0 || Perc2 (Clap) - Solo ||
+|| A#0 || Perc2 (Clap) - Multi ||
+|| B0 || Perc1 (Stick) - Hit ||
+|| C1 || Kick - Dampened ||
+|| C#1 || Snare - Sidestick ||
+|| D1 || Snare - Center Right/Left Alternating ||
+|| D#1 || Snare - Rimshot ||
+|| E1 || Snare - Halfway Right/Left Alternating ||
+|| F1 || Tom 4 (Floor Tom) - Center Right/Left Alternating * ||
+|| F#1 || Hihat - Closed Tip Right/Left Alternating * ||
+|| G1 || Tom 3 (Rack Tom Low) - Center Right/Left Alternating * ||
+|| G#1 || Hihat - Closed Pedal ||
+|| A1 || Tom 2 (Low) - Center Right/Left Alternating * ||
+|| A#1 || Hihat - Open Controller ** ||
+|| B1 || Tom 1 (Rack Hi) - Center Right/Left Alternating * ||
+|| C2 || Crash 1 - Tip ||
+|| C#2 || Crash 1 - Edge ||
+|| D2 || Crash 1 - Bell ||
+|| D#2 || Ride - Tip ||
+|| E2 || Ride - Edge ||
+|| F2 || Ride - Bell ||
+|| F#2 || Crash 2 - Tip ||
+|| G2 || Crash 2 - Edge ||
+|| G#2 || Crash 2 - Bell ||
+|| A2 || Sizzle Ride - Tip ||
+|| A#2 || Sizzle Ride - Edge ||
+|| B2 || Cymbal 5 (Splash) - Edge ||
+|| C3 || Kick - Open ||
+|| C#3 || Snare - Rim Only ||
+|| D3 || Snare - Flam ||
+|| D#3 || Snare - Roll ||
+|| E3 || Snare - Wires Off ||
+|| F3 || Tom 4 (Floor Tom) - Rimshot ||
+|| F#3 || Hihat - Closed Tight Tip Right/Left Alternating * ||
+|| G3 || Tom 3 (Rack Tom Low) - Rimshot ||
+|| G#3 || Hihat - Closed Shank Right/Left Alternating * ||
+|| A3 || Tom 2 (Low) - Rimshot ||
+|| A#3 || Hihat - Open Pedal ||
+|| B3 || Tom 1 (Rack Hi) - Rimshot ||
+|| C4 || Tom 4 (Floor Tom) - Rim Only ||
+|| C#4 || Tom 3 (Rack Tom Low) - Rim Only ||
+|| D4 || Tom 2 (Low) - Rim Only ||
+|| D#4 || Tom 1 (Rack Hi) - Rim Only ||
+|| E4 || Hihat - Open Quarter ||
+|| F4 || Hihat - Open Half ||
+|| F#4 || Hihat - Open Three-Quarters ||
+|| G4 || Hihat - Open Loose ||
+|| G#4 || Hihat - Open Full ||
+|| A4 || Snare - Center Left Hand ||
+|| A#4 || Kick - Half Open ||
+|| B4 || Snare - Center Right Hand ||
+|| C5 || Snare - Halfway Left Hand ||
+|| C#5 || Hihat - Closed Tight Tip Left Hand ||
+|| D5 || Snare - Halfway Right Hand ||
+|| D#5 || Hihat - Closed Tight Tip Right Hand ||
+|| E5 || Tom 4 (Floor Tom) - Center Left Hand ||
+|| F5 || Tom 4 (Floor Tom) - Center Right Hand ||
+|| F#5 || Hihat - Closed Tip Left Hand ||
+|| G5 || Tom 3 (Rack Tom Low) - Center Left Hand ||
+|| G#5 || Hihat - Closed Tip Right Hand ||
+|| A5 || Tom 3 (Rack Tom Low) - Center Right Hand ||
+|| A#5 || Hihat - Closed Shank Left Hand ||
+|| B5 || Tom 2 (Low) - Center Left Hand ||
+|| C6 || Tom 2 (Low) - Center Right Hand ||
+|| C#6 || Hihat - Closed Shank Right Hand ||
+|| D6 || Tom 1 (Rack Hi) - Center Left Hand ||
+|| D#6 || Kick - Rubber Beater ||
+|| E6 || Tom 1 (Rack Hi) - Center Right Hand ||
+|| F6 || Snare - Splash Off ||
+|| F#6 || Snare - Splash Rim ||
+|| G6 || Snare - Splash On ||
+|| G#6 ||  ||
+|| A6 || Tom 2 (Low) - Towel ||
+|| A#6 ||  ||
+|| B6 || Tom 1 (Rack Hi) - Towel ||
+|| C7 ||  ||
+|| C#7 ||  ||
+|| D7 ||  ||
+|| D#7 ||  ||
+|| E7 ||  ||
+|| F7 ||  ||
+|| F#7 ||  ||
+|| G7 ||  ||
+|| G#7 ||  ||
+|| A7 ||  ||
+|| A#7 ||  ||
+|| B7 ||  ||
+|| C8 ||  ||
+|| C#8 ||  ||
+|| D8 ||  ||
+|| D#8 ||  ||
+|| E8 ||  ||
+|| F8 ||  ||
+|| F#8 ||  ||
+|| G8 ||  ||

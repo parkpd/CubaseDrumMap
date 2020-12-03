@@ -1,0 +1,24 @@
+36(C2) Kick 606 1
+37(C#2) Kick 606 2
+38(D2) Snare 606 1
+39(D#2) Cymbal 606
+40(E2) Snare 606 2
+41(F2) LowTom 606 1
+42(F#2) ClosedHH 606 1
+43(G2) HiTom 606 1
+44(G#2) ClosedHH 606 2
+45(A2) LowTom 606 2
+46(A#2) OpenHH 606
+47(B2) HiTom 606 2
+48(C3) Kick 606X 1
+49(C#3) Kick 606X 2
+50(D3) Snare 606X 1
+51(D#3) Cymbal 606X
+52(E3) Snare 606X 2
+53(F3) LowTom 606X 1
+54(F#3) ClosedHH 606X 1
+55(G3) HiTom 606X 1
+56(G#3) ClosedHH 606X 2
+57(A3) LowTom 606X 2
+58(A#3) OpenHH 606X
+59(B3) HiTom 606X 2

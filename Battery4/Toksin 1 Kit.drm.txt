@@ -1,0 +1,42 @@
+36(C2) Kick Toksin 1
+37(C#2) Kick Toksin 2
+38(D2) Snare Toksin 1
+39(D#2) Rimshot Toksin
+40(E2) Snare Toksin 2
+41(F2) Dist Toksin 2
+42(F#2) Chop Toksin
+43(G2) Squelch Toksin
+44(G#2) ClosedHH Toksin 1
+45(A2) Metallic Toksin
+46(A#2) OpenHH Toksin 1
+47(B2) Sweep Toksin
+48(C3) Kick Toksin 3
+49(C#3) Kick Toksin 4
+50(D3) Snare Toksin 3
+51(D#3) Snare Toksin 4
+52(E3) Snare Toksin 5
+53(F3) Zap Toksin
+54(F#3) Ride Toksin
+55(G3) SFX Toksin
+56(G#3) ClosedHH Toksin 2
+57(A3) Drill Toksin 1
+58(A#3) OpenHH Toksin 2
+59(B3) Drill Toksin 2
+60(C4) Kick Toksin 5
+61(C#4) Kick Toksin 6
+62(D4) Noise Toksin 1
+63(D#4) Noise Toksin 2
+64(E4) Noise Toksin 3
+65(F4) Noise Toksin 4
+66(F#4) Noise Toksin 5
+67(G4) Swell Toksin
+68(G#4) ClosedHH Toksin 3
+69(A4) Bass Toksin 1
+70(A#4) Bass Toksin 2
+71(B4) Bass Toksin 3
+72(C5) Glitch Toksin
+73(C#5) Dist Toksin 1
+74(D5) LoFill Toksin 1
+75(D#5) LoFill Toksin 2
+76(E5) LoFill Toksin 3
+77(F5) Blip Toksin

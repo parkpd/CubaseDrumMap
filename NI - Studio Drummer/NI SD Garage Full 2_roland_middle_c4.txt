@@ -1,0 +1,128 @@
+|| C-1 ||  || 0 ||
+|| C#-1 ||  || 1 ||
+|| D-1 ||  || 2 ||
+|| D#-1 ||  || 3 ||
+|| E-1 ||  || 4 ||
+|| F-1 ||  || 5 ||
+|| F#-1 ||  || 6 ||
+|| G-1 ||  || 7 ||
+|| G#-1 ||  || 8 ||
+|| A-1 ||  || 9 ||
+|| A#-1 ||  || 10 ||
+|| B-1 ||  || 11 ||
+|| C0 ||  || 12 ||
+|| C#0 ||  || 13 ||
+|| D0 ||  || 14 ||
+|| D#0 ||  || 15 ||
+|| E0 ||  || 16 ||
+|| F0 ||  || 17 ||
+|| F#0 ||  || 18 ||
+|| G0 ||  || 19 ||
+|| G#0 ||  || 20 ||
+|| A0 ||  || 21 ||
+|| A#0 ||  || 22 ||
+|| B0 ||  || 23 ||
+|| C1 ||  || 24 ||
+|| C#1 ||  || 25 ||
+|| D1 ||  || 26 ||
+|| D#1 || Cowbell Low Open || 27 ||
+|| E1 || Cowbell Low Muted || 28 ||
+|| F1 || Cowbell High Open || 29 ||
+|| F#1 || Cowbell High Muted || 30 ||
+|| G1 || Tambourine Tap || 31 ||
+|| G#1 || Tambourine Shake || 32 ||
+|| A1 || Clap Solo || 33 ||
+|| A#1 || Claps || 34 ||
+|| B1 || Sticks || 35 ||
+|| C2 || KICK Dampened || 36 ||
+|| C#2 || SNARE Side Stick || 37 ||
+|| D2 || SNARE Centre Alt || 38 ||
+|| D#2 || SNARE Rim Shot || 39 ||
+|| E2 || SNARE Halfway Alt || 40 ||
+|| F2 || Floor Tom Center Alt || 41 ||
+|| F#2 || HH Clsd Tip Alt || 42 ||
+|| G2 || Tom 3 Center Alt || 43 ||
+|| G#2 || HH Clsd Pedal || 44 ||
+|| A2 || Tom 2 Center Alt || 45 ||
+|| A#2 || HH Open Controller || 46 ||
+|| B2 || Tom 1 Center Alt || 47 ||
+|| C3 || HI CRASH Tip || 48 ||
+|| C#3 || HI CRASH Edge || 49 ||
+|| D3 || HI CRASH Bell || 50 ||
+|| D#3 || RIDE Tip || 51 ||
+|| E3 || RIDE Edge || 52 ||
+|| F3 || RIDE Bell || 53 ||
+|| F#3 || LO CRASH Tip || 54 ||
+|| G3 || LO CRASH Edge || 55 ||
+|| G#3 || LO CRASH Bell || 56 ||
+|| A3 || China Edge || 57 ||
+|| A#3 || China Tip || 58 ||
+|| B3 || Splash || 59 ||
+|| C4 || KICK Open || 60 ||
+|| C#4 || SNR Rim Only || 61 ||
+|| D4 || SNR Flam || 62 ||
+|| D#4 || Snare Roll || 63 ||
+|| E4 || Snare Wires Off || 64 ||
+|| F4 || Floor Tom Rimshot || 65 ||
+|| F#4 || HH Clsd Tight Tip Alt || 66 ||
+|| G4 || Tom 3 Rimshot || 67 ||
+|| G#4 || HH Clsd Shank Alt || 68 ||
+|| A4 || Tom 2 Rimshot || 69 ||
+|| A#4 || HH Open Pedal || 70 ||
+|| B4 || Tom 1 Rimshot || 71 ||
+|| C5 || Tom 3 Rim only || 72 ||
+|| C#5 || Tom 3 Rim only || 73 ||
+|| D5 || Tom 2 Rim only || 74 ||
+|| D#5 || Tom 1 Rim only || 75 ||
+|| E5 || HiHat Open 1/4 || 76 ||
+|| F5 || HiHat Open 1/2 || 77 ||
+|| F#5 || HiHat Open 3/4 || 78 ||
+|| G5 || HiHat Open Loose || 79 ||
+|| G#5 || HiHat Open Full || 80 ||
+|| A5 || SNR Center L || 81 ||
+|| A#5 ||  || 82 ||
+|| B5 || SNR Center R || 83 ||
+|| C6 || SNR Halfway L || 84 ||
+|| C#6 || HH CLsd Tight Tip Left || 85 ||
+|| D6 || SNR Halfway R || 86 ||
+|| D#6 || HH CLsd Tight Tip Right || 87 ||
+|| E6 || Tom 3 Center L || 88 ||
+|| F6 || Tom 3 Centre R || 89 ||
+|| F#6 || HH Clsd Tip Left || 90 ||
+|| G6 || Tom 3 Center L || 91 ||
+|| G#6 || HH Clsd Tip Right || 92 ||
+|| A6 || Tom 3 Center R || 93 ||
+|| A#6 || HH Clsd Shank Left || 94 ||
+|| B6 || Tom 2 Center L || 95 ||
+|| C7 || Tom 2 Center R || 96 ||
+|| C#7 || HH Clsd Shank R || 97 ||
+|| D7 || Tom 1 Center L || 98 ||
+|| D#7 ||  || 99 ||
+|| E7 || Tom 1 Center R || 100 ||
+|| F7 ||  || 101 ||
+|| F#7 ||  || 102 ||
+|| G7 ||  || 103 ||
+|| G#7 ||  || 104 ||
+|| A7 ||  || 105 ||
+|| A#7 ||  || 106 ||
+|| B7 ||  || 107 ||
+|| C8 ||  || 108 ||
+|| C#8 ||  || 109 ||
+|| D8 ||  || 110 ||
+|| D#8 ||  || 111 ||
+|| E8 ||  || 112 ||
+|| F8 ||  || 113 ||
+|| F#8 ||  || 114 ||
+|| G8 ||  || 115 ||
+|| G#8 ||  || 116 ||
+|| A8 ||  || 117 ||
+|| A#8 ||  || 118 ||
+|| B8 ||  || 119 ||
+|| C9 ||  || 120 ||
+|| C#9 ||  || 121 ||
+|| D9 ||  || 122 ||
+|| D#9 ||  || 123 ||
+|| E9 ||  || 124 ||
+|| F9 ||  || 125 ||
+|| F#9 ||  || 126 ||
+|| G9 ||  || 127 ||

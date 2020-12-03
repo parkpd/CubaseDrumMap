@@ -1,0 +1,48 @@
+36(C2) Kick Soulesque 1
+37(C#2) Kick Soulesque 2
+38(D2) Rim Soulesque
+39(D#2) Clap Soulesque 1
+40(E2) Snare Soulesque 1
+41(F2) Clap Soulesque 2
+42(F#2) Shaker Soulesque 1
+43(G2) Chord Soulesque 1
+44(G#2) ClosedHH Soulesque 1
+45(A2) Chord Soulesque 2
+46(A#2) OpenHH Soulesque 1
+47(B2) Crash Soulesque 1
+48(C3) Kick Soulesque 3
+49(C#3) Kick Soulesque 4
+50(D3) Snare Soulesque 2
+51(D#3) Clap Soulesque 3
+52(E3) Snare Soulesque 3
+53(F3) Tom Soulesque 1
+54(F#3) Shaker Soulesque 2
+55(G3) Tom Soulesque 2
+56(G#3) ClosedHH Soulesque 2
+57(A3) Swell Soulesque
+58(A#3) OpenHH Soulesque 2
+59(B3) Ride Soulesque 1
+60(C4) Kick Soulesque 5
+61(C#4) Kick Soulesque 6
+62(D4) Snare Soulesque 4
+63(D#4) Clap Soulesque 4
+64(E4) Snare Soulesque 5
+65(F4) Tom Soulesque 3
+66(F#4) Shaker Soulesque 3
+67(G4) Tom Soulesque 4
+68(G#4) ClosedHH Soulesque 3
+69(A4) Vocal Soulesque
+70(A#4) OpenHH Soulesque 3
+71(B4) Ride Soulesque 2
+72(C5) Kick Soulesque 7
+73(C#5) Kick Soulesque 8
+74(D5) Snare Soulesque 6
+75(D#5) Snap Soulesque
+76(E5) Snare Soulesque 7
+77(F5) Tom Soulesque 5
+78(F#5) Shaker Soulesque 4
+79(G5) Tom Soulesque 6
+80(G#5) ClosedHH Soulesque 4
+81(A5) Hit Soulesque
+82(A#5) OpenHH Soulesque 4
+83(B5) Crash Soulesque 2

@@ -1,0 +1,70 @@
+36(C2) Kick Sintheti 1
+37(C#2) Kick Sintheti 2
+38(D2) Snare Sintheti 1
+39(D#2) Perc Sintheti 1
+40(E2) Snare Sintheti 2
+41(F2) Hit Sintheti 1
+42(F#2) Hit Sintheti 8
+43(G2) Hit Sintheti 3
+44(G#2) Hit Sintheti 4
+45(A2) Hit Sintheti 5
+46(A#2) Ride Sintheti
+47(B2) Hit Sintheti 6
+48(C3) Impact Sintheti 2
+49(C#3) Impact Sintheti 3
+50(D3) Perc Sintheti 3
+51(D#3) Zap Sintheti
+52(E3) Metallic Sintheti
+53(F3) Glitch Sintheti 2
+54(F#3) Hit Sintheti 7
+55(G3) Squelch Sintheti 1
+56(G#3) Blop Sintheti
+57(A3) Glitch Sintheti 1
+58(A#3) Splash Sintheti
+59(B3) Sub Sintheti 1
+60(C4) Impact Sintheti 4
+61(C#4) Impact Sintheti 5
+62(D4) SFX Sintheti 3
+63(D#4) SFX Sintheti 4
+64(E4) SFX Sintheti 5
+65(F4) SFX Sintheti 6
+66(F#4) SFX Sintheti 7
+67(G4) Buzz Sintheti 1
+68(G#4) Buzz Sintheti 2
+69(A4) Atmos Sintheti 2
+70(A#4) Fall Sintheti
+71(B4) SFX Sintheti 1
+72(C5) Impact Sintheti 6
+73(C#5) Impact Sintheti 7
+74(D5) Stab Sintheti 3
+75(D#5) Stab Sintheti 4
+76(E5) Drone Sintheti
+77(F5) Squelch Sintheti 2
+78(F#5) Rise Sintheti 1
+79(G5) Hit Sintheti 2
+80(G#5) Atmos Sintheti 1
+81(A5) Perc Sintheti 2
+82(A#5) SFX Sintheti 2
+83(B5) Dist Sintheti 6
+84(C6) Impact Sintheti 1
+85(C#6) Combo Sintheti 5
+86(D6) Combo Sintheti 4
+87(D#6) Wow Sintheti
+88(E6) Rise Sintheti 2
+89(F6) Drop Sintheti
+90(F#6) Banjo Sintheti
+91(G6) Sub Sintheti 2
+92(G#6) Squelch Sintheti 3
+93(A6) Stab Sintheti 1
+94(A#6) Stab Sintheti 2
+95(B6) Dist Sintheti 5
+96(C7) Combo Sintheti 2
+97(C#7) Combo Sintheti 3
+98(D7) Combo Sintheti 1
+99(D#7) Vox Sintheti 1
+100(E7) Vox Sintheti 2
+101(F7) Noise Sintheti
+102(F#7) Dist Sintheti 1
+103(G7) Dist Sintheti 2
+104(G#7) Dist Sintheti 3
+105(A7) Dist Sintheti 4

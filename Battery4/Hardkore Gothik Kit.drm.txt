@@ -1,0 +1,37 @@
+36(C2) Kick Gothik 1
+37(C#2) Kick Gothik 2
+38(D2) Snare Gothik 1
+39(D#2) Snare Gothik 2
+40(E2) Snare Gothik 3
+41(F2) Tom Gothik 1
+42(F#2) Ride Gothik 1
+43(G2) Tom Gothik 2
+44(G#2) ClosedHH Gothik 1
+45(A2) Tom Gothik 3
+46(A#2) OpenHH Gothik 2
+47(B2) Cymbal Gothik 1
+48(C3) Kick Gothik 3
+49(C#3) Kick Gothik 4
+50(D3) Snare Gothik 4
+51(D#3) Snare Gothik 5
+52(E3) Rim Shot Gothik 1
+53(F3) Tom Gothik 4
+54(F#3) Ride Gothik 2
+55(G3) Tom Gothik 5
+56(G#3) ClosedHH Gothik 12
+57(A3) Tom Gothik 6
+58(A#3) OpenHH Gothik 3
+59(B3) Cymbal Gothik 2
+60(C4) Kick Gothik 5
+61(C#4) Block Gothik 1
+62(D4) Snare Gothik 6
+63(D#4) Block Gothik 2
+64(E4) Rim Shot Gothik 2
+65(F4) Tom Gothik 7
+66(F#4) Ride Gothik 3
+67(G4) Tom Gothik 8
+68(G#4) OpenHH Gothik 1
+69(A4) China Gothik
+70(A#4) OpenHH Gothik 4
+71(B4) Cymbal Gothik 3
+72(C5) SFX Gothik

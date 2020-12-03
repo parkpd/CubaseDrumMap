@@ -1,0 +1,48 @@
+36(C2) Kick MadFlavor 1
+37(C#2) Kick MadFlavor 2
+38(D2) Snare MadFlavor 1
+39(D#2) Clap MadFlavor 1
+40(E2) Snare MadFlavor 2
+41(F2) Bongo MadFlavor
+42(F#2) Shaker MadFlavor 1
+43(G2) Castanet MadFlavor
+44(G#2) ClosedHH MadFlavor 1
+45(A2) SFX MadFlavor 1
+46(A#2) ClosedHH MadFlavor 2
+47(B2) Crash MadFlavor 1
+48(C3) Kick MadFlavor 3
+49(C#3) Kick MadFlavor 4
+50(D3) Snare MadFlavor 3
+51(D#3) Clap MadFlavor 2
+52(E3) Snare MadFlavor 4
+53(F3) Conga MadFlavor 1
+54(F#3) WoodBlock MadFlavor
+55(G3) Metallic MadFlavor 1
+56(G#3) ClosedHH MadFlavor 3
+57(A3) SFX MadFlavor 2
+58(A#3) ClosedHH MadFlavor 4
+59(B3) Crash MadFlavor 2
+60(C4) Kick MadFlavor 5
+61(C#4) Kick MadFlavor 6
+62(D4) Snare MadFlavor 5
+63(D#4) Clap MadFlavor 3
+64(E4) Snare MadFlavor 6
+65(F4) Conga MadFlavor 2
+66(F#4) Shaker MadFlavor 2
+67(G4) Perc MadFlavor 1
+68(G#4) ClosedHH MadFlavor 5
+69(A4) SFX MadFlavor 3
+70(A#4) ClosedHH MadFlavor 6
+71(B4) Ride MadFlavor
+72(C5) Kick MadFlavor 7
+73(C#5) Kick MadFlavor 8
+74(D5) Snare MadFlavor 7
+75(D#5) Clap MadFlavor 4
+76(E5) Snare MadFlavor 8
+77(F5) Perc MadFlavor 2
+78(F#5) Shaker MadFlavor 3
+79(G5) Metallic MadFlavor 2
+80(G#5) ClosedHH MadFlavor 7
+81(A5) SFX MadFlavor 4
+82(A#5) ClosedHH MadFlavor 8
+83(B5) RevCrash MadFlavor

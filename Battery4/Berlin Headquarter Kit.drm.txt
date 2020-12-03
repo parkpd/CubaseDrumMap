@@ -1,0 +1,48 @@
+36(C2) Door Berlin 1
+37(C#2) Door Berlin 8
+38(D2) Bisley Berlin
+39(D#2) Beeper Berlin 1
+40(E2) Logo Berlin
+41(F2) Phone Berlin 1
+42(F#2) Door Berlin 2
+43(G2) Beeper Berlin 2
+44(G#2) Fan Berlin 1
+45(A2) Beeper Berlin 3
+46(A#2) Radiator Berlin 3
+47(B2) Fan Berlin 2
+48(C3) Bisley Berlin
+49(C#3) Box Berlin 2
+50(D3) Chair Berlin 1
+51(D#3) Phone Berlin 3
+52(E3) Click Berlin 1
+53(F3) Click Berlin 2
+54(F#3) Door Berlin 3
+55(G3) Beeper Berlin 4
+56(G#3) Fan Berlin 3
+57(A3) Fan Berlin 4
+58(A#3) Door Berlin 4
+59(B3) Entrance Berlin 1
+60(C4) Chair Berlin 2
+61(C#4) Beeper Berlin 5
+62(D4) Beeper Berlin 6
+63(D#4) Beeper Berlin 7
+64(E4) Click Berlin 3
+65(F4) Click Berlin 4
+66(F#4) Door Berlin 5
+67(G4) Radiator Berlin 1
+68(G#4) Click Berlin 5
+69(A4) Door Berlin 6
+70(A#4) Door Berlin 11
+71(B4) Box Berlin 1
+72(C5) Door Berlin 7
+73(C#5) Door Berlin 9
+74(D5) Shelf Berlin
+75(D#5) Entrance Berlin 2
+76(E5) Click Berlin 6
+77(F5) Click Berlin 7
+78(F#5) Noise Berlin
+79(G5) Phone Berlin 2
+80(G#5) Door Berlin 10
+81(A5) Radiator Berlin 2
+82(A#5) Speaker Berlin 1
+83(B5) Speaker Berlin 2

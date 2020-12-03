@@ -1,0 +1,72 @@
+36(C2) Kick CD 7
+37(C#2) Metallic CD 2
+38(D2) Metallic CD 3
+39(D#2) SFX CD 4
+40(E2) SFX CD 5
+41(F2) Gong CD
+42(F#2) Bowl CD
+43(G2) RideBell CD
+44(G#2) ClosedHH CD
+45(A2) SFX CD 7
+46(A#2) PedalHH CD
+47(B2) SFX CD 8
+48(C3) SFX CD 9
+49(C#3) Scrape CD 3
+50(D3) Bass CD 1
+51(D#3) Bass CD 2
+52(E3) Bass CD 3
+53(F3) SFX CD10
+54(F#3) Dist CD 6
+55(G3) Drill CD 7
+56(G#3) SFX CD 6
+57(A3) Noise CD 5
+58(A#3) Perc CD 3
+59(B3) Perc CD 2
+60(C4) Kling CD
+61(C#4) Klang CD
+62(D4) Atmos CD 1
+63(D#4) Hit CD 7
+64(E4) Hit CD 6
+65(F4) Metallic CD 6
+66(F#4) Perc CD 4
+67(G4) Guitar CD 1
+68(G#4) Guitar CD 2
+69(A4) Guitar CD 3
+70(A#4) Drone CD 1
+71(B4) Drone CD 2
+72(C5) Drone CD 3
+73(C#5) Hit CD 8
+74(D5) SFX CD 11
+75(D#5) Squelch CD
+76(E5) Bell CD
+77(F5) Metallic CD  4
+78(F#5) Metallic CD 5
+79(G5) Swell CD  3
+80(G#5) Drill CD 8
+81(A5) Swirl CD
+82(A#5) Sweep CD 2
+83(B5) Noise CD 6
+84(C6) Scrape CD 1
+85(C#6) Scrape CD  2
+86(D6) Guitar CD 3
+87(D#6) Guitar CD 4
+88(E6) String CD 1
+89(F6) String CD 2
+90(F#6) String CD 3
+91(G6) Perc CD 6
+92(G#6) Perc CD 7
+93(A6) Perc CD 8
+94(A#6) Perc CD 5
+95(B6) Bongo CD
+96(C7) Ambience CD 1
+97(C#7) Ambience CD 2
+98(D7) Ambience CD 3
+99(D#7) Ambience CD 4
+100(E7) Atmos CD 2
+101(F7) Blop CD 2
+102(F#7) Atmos CD 3
+103(G7) Atmos CD 4
+104(G#7) Click CD 1
+105(A7) Click CD 2
+106(A#7) ClickCD  3
+107(B7) Click CD 4

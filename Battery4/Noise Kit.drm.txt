@@ -1,0 +1,43 @@
+36(C2) Kick Noise
+37(C#2) SFX Noise 1
+38(D2) Snare Noise 1
+39(D#2) Snare Noise 2
+40(E2) Amp Noise
+41(F2) LoTom Noise
+42(F#2) Tom Noise
+43(G2) MidTom Noise
+44(G#2) ClosedHH Noise
+45(A2) HiTom Noise
+46(A#2) OpenHH Noise
+47(B2) SFX Noise 2
+48(C3) Noise Noise 1
+49(C#3) Noise Noise 2
+50(D3) Noise Noise 3
+51(D#3) Fan Noise 1
+52(E3) Fan Noise 2
+53(F3) Water Noise 1
+54(F#3) Water Noise 2
+55(G3) Hum Noise
+56(G#3) Paper Noise
+57(A3) Blip Noise
+58(A#3) PedalHH Noise
+59(B3) SFX Noise 3
+60(C4) Sub Noise
+61(C#4) Vacuum Noise 1
+62(D4) Vacuum Noise 2
+63(D#4) Drill Noise 1
+64(E4) Drill Noise 2
+65(F4) Machine Noise 6
+66(F#4) Machine Noise 7
+67(G4) Microwave Noise
+68(G#4) Wind Noise
+69(A4) Machine Noise 1
+70(A#4) Machine Noise 2
+71(B4) SFX Noise 4
+72(C5) Brown Noise
+73(C#5) Pink Noise
+74(D5) White Noise
+75(D#5) Water Noise 3
+76(E5) Machine Noise 3
+77(F5) Machine Noise 4
+78(F#5) Machine Noise 5
